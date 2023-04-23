@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "485407488344",
+    "project_id": "nootflutter",
+    "storage_bucket": "nootflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485407488344:android:bf224708c8f964f8868d2d",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485407488344-9bl0h23sp07pf2dn34o4m00mbu9e9rf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwCvhOKK8xIdiXbmC9GXcnbFntfLOLghs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485407488344-9bl0h23sp07pf2dn34o4m00mbu9e9rf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
